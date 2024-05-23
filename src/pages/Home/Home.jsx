@@ -1,7 +1,9 @@
+import People from "../../components/People/People";
+
 const Home = () => {
   return (
     <div>
-      <h2>This is Home</h2>
+      <People></People>
     </div>
   );
 };
